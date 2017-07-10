@@ -1,0 +1,84 @@
+body {
+  padding-top: 70px;
+}
+
+h1 {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+}
+
+h2 {
+color: rgba(247,202,201,1);
+font-size: 28px;
+text-align: center;
+font-family: 'Zilla Slab', serif;
+padding-bottom: 10px;
+}
+
+/*.bx-wrapper {
+width: auto;
+height: 200px;
+}
+
+.bx-viewport {
+width: auto;
+height: 200px;
+}
+*/
+
+img {
+  positon: relative;
+  width: 100%;
+}
+
+.bxslider h2 {
+  font-size: 40px;
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 100%;
+}
+
+h2 span {
+   color: rgba(247,202,201,1);
+   font-family: 'Zilla Slab', serif;
+   letter-spacing: -1px;
+   padding-top: 0px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+}
+
+#social-buttons {
+text-align: center;
+padding-bottom: 50px;
+padding-top: 10px;
+}
+
+
+p {
+  color: black;
+  font-size: 18px;
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+}
+
+ul.nav li{
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+    color: rgba(247,202,201,1);
+    font-family: 'Zilla Slab', serif;
+}
+
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+#social-buttons button {
+  color: white;
+  text-align: center;
+  margin: auto;
+}
